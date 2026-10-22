@@ -20,6 +20,9 @@ An 11-year spatiotemporal analysis evaluating Land Use and Land Cover (LULC) cha
 - Spectral Signature & Index Visualizations (NDVI / MNDWI)
 - Quantified Land Cover Change Detection Report
 
+###Classification & Spectral Index Maps
+<img width="1200" height="1578" alt="AL-BAHA-LULC-Results" src="https://github.com/user-attachments/assets/1fba66c2-b8b3-43f1-b1f7-11d0451efc27" />
+
 ## Author
 Khadijah Al-Saggaf — GIS Specialist
 King Abdulaziz University
